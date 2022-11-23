@@ -1,5 +1,3 @@
-package exception;
-
 public class Mainclass3 
 {
 	public static void count(int v1)

@@ -1,5 +1,3 @@
-package ProgramVehicles.model;
-
 public class Car extends CVehicle {
 
 	public Car(double price, double speed, int year) {

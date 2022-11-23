@@ -1,5 +1,3 @@
-package exception;
-
 public class Mainclass2 
 {
 	public static void display(int num)throws InterruptedException

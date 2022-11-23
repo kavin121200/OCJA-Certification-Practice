@@ -1,5 +1,3 @@
-package threads;
-
 public class Mainclass3 
 {
 	public static void main(String[] args)

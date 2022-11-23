@@ -1,7 +1,5 @@
 -- https://leetcode.com/problems/trips-and-users/submissions/
 
-
-# Write your MySQL query statement below
 SELECT 
     L.request_at AS Day,
     ROUND(SUM(CASE WHEN L.status != 'completed' THEN 1 ELSE 0 END) /COUNT(1),2) AS 'Cancellation Rate'

@@ -1,5 +1,3 @@
-package ProgramVehicles;
-
 import ProgramVehicles.model.*;
 
 public class ProgVehWorld {

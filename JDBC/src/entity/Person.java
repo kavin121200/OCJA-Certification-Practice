@@ -1,5 +1,3 @@
-package com.home.jdbc.entity;
-
 import java.util.Date;
 
 /**

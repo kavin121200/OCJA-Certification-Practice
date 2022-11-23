@@ -1,5 +1,3 @@
-package ProgramVehicles.model;
-
 public class Plane extends CVehicle{
 	double height;
 	public Plane(double price, double speed, int year, double height, int passangers) {

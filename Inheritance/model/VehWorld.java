@@ -1,5 +1,3 @@
-package ProgramVehicles.model;
-
 import java.util.Arrays;
 
 public class VehWorld {

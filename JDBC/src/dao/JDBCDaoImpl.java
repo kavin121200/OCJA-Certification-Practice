@@ -1,5 +1,3 @@
-package com.home.jdbc.dao;
-
 import java.sql.Connection;
 import java.sql.Date;
 import java.sql.PreparedStatement;

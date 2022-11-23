@@ -1,5 +1,3 @@
-package ProgramVehicles.model;
-
 public class Ship extends CVehicle{
 	private int port;
 

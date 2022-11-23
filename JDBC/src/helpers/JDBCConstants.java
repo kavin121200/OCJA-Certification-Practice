@@ -1,5 +1,3 @@
-package com.home.jdbc.helpers;
-
 /**
  * Change the driver,url,username and password according to your needs
  * 

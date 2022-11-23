@@ -1,4 +1,3 @@
-package ProgramVehicles.model;
 public class CVehicle {
 	double price;
 	double speed;

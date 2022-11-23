@@ -1,5 +1,3 @@
-package threads;
-
 class ThreadOne extends Thread 
 {
 	@Override

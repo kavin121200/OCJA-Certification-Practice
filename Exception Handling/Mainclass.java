@@ -1,5 +1,3 @@
-package exception;
-
 public class Mainclass 
 {
 	public static void test(int num)//called
